@@ -2,7 +2,7 @@
     "require": {
         "api-platform/core": "^4.0",
         "doctrine/doctrine-bundle": "^2.12",
-        "doctrine/doctrine-fixtures-bundle": "^3.5",
+        "doctrine/doctrine-fixtures-bundle": "^4.3.1",
         "symfony/form": "^7.4|^8.1",
         "symfony/mailer": "^7.4|^8.1",
         "symfony/messenger": "^7.4|^8.1",
