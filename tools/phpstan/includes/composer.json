@@ -1,6 +1,6 @@
 {
     "require": {
-        "api-platform/core": "^4.0",
+        "api-platform/core": "^5.0.5",
         "doctrine/doctrine-bundle": "^2.12",
         "doctrine/doctrine-fixtures-bundle": "^3.5",
         "symfony/form": "^7.4|^8.1",
